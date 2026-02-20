@@ -1,6 +1,6 @@
-# [root@valentina:~]# 
-
 ```text
+[root@valentina:~]# 
+
 -- Identity --
 Name: Valentina Alcubillas Arango (she/her)
 Role: Cybersecurity Analyst | Pentester

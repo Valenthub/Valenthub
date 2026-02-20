@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Analista de Ciberseguridad con experiencia en análisis de vulnerabilidades y pentesting en entornos Linux. Manejo de herramientas como Nmap, Metasploit, Nessus, Wireshark y Wazuh, aplicando técnicas de hardening y controles alineados con NIST e ISO 27001.
+
 <!--
 **Valenthub/Valenthub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
